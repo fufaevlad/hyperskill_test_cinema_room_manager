@@ -1,0 +1,1 @@
+# hyperskyll_test_cinema_room_manager
